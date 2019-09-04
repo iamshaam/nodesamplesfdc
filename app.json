@@ -1,6 +1,6 @@
 {
-  "name": "Salesforce Conference App",
-  "description": "Conference Management App built on Salesforce1 Platform",
+  "name": "Salesforce Node Sample App",
+  "description": "Sample Node JS App to conect salesforce",
   "env": {
     "APP_ID": ""
   }
